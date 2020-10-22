@@ -1,0 +1,19 @@
+{
+  "name": "next-boiler",
+  "version": "1.0.0",
+  "description": "Boilerplate app for NextJS with Typescript, eslint, prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adammanderson/next-boiler.git"
+  },
+  "author": "Adam Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adammanderson/next-boiler/issues"
+  },
+  "homepage": "https://github.com/adammanderson/next-boiler#readme"
+}
